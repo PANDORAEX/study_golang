@@ -1,1 +1,1 @@
-# study_golang
+为了学习golang编程语言所创建的Repository。
